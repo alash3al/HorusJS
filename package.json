@@ -1,0 +1,20 @@
+{
+  "name": "HorusJS",
+  "version": "1.0.0",
+  "description": "A lightweight micro framework for nodejs",
+  "main": "horus.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/alash3al/HorusJS/HorusJS.git"
+  },
+  "keywords": [
+    "router",
+    "hooks",
+    "middleware",
+    "http",
+    "https",
+    "light"
+  ],
+  "author": "Mohammed Al Ashaal",
+  "license": "MIT"
+}
