@@ -4,6 +4,9 @@ that doesn't use any loop to dispatch the matched listener but it just let nodej
 to manage it, the first route you write is the first route will be checked .
 It has no complex code, you will use the default `req` and `res` objects in your routes
 
+### install
+`npm install horus.js`
+
 ### Learn by examples
 **Example #1**  `basic`
 ```javascript
