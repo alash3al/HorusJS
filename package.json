@@ -1,5 +1,5 @@
 {
-  "name": "HorusJS",
+  "name": "horus.js",
   "version": "1.0.0",
   "description": "A lightweight micro framework for nodejs",
   "main": "horus.js",
@@ -13,7 +13,9 @@
     "middleware",
     "http",
     "https",
-    "light"
+    "light",
+    "vhost",
+    "subdomain"
   ],
   "author": "Mohammed Al Ashaal",
   "license": "MIT"
