@@ -12,7 +12,7 @@ It has no complex code, you will use the default `req` and `res` objects in your
 ```javascript
 
 http  = require('http')
-horus = require('horus')
+horus = require('horus.js')
 
 http.createServer(function(req, res){
 	app = horus(req, res)
@@ -56,7 +56,7 @@ http.listen(8080)
 ```javascript
 
 http  = require('http')
-horus = require('horus')
+horus = require('horus.js')
 
 http.createServer(function(req, res){
 	app = horus(req, res)
@@ -98,7 +98,7 @@ http.listen(80)
 ```javascript
 
 http  = require('http')
-horus = require('horus')
+horus = require('horus.js')
 
 http.createServer(function(req, res){
 	app = horus(req, res)
