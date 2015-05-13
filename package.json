@@ -1,6 +1,6 @@
 {
   "name": "horus.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A lightweight micro framework for nodejs",
   "main": "horus.js",
   "repository": {
